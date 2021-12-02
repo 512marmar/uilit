@@ -1,0 +1,27 @@
+.planned{
+    width: 600px;
+    height: 600px;
+}
+span:hover{
+   
+ background-color: aliceblue;
+}
+
+.position{
+    width: 100%;
+    height: 200px;
+    display:flex ;
+    flex-direction:row ;
+}
+
+.Card {
+    width: 400px;
+    height: 200px;
+    margin-left: 20px;
+    -webkit-box-shadow: 9px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 9px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 9px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+.uk{
+    margin-left:20px ;
+}
