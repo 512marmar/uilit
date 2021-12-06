@@ -25,3 +25,30 @@ span:hover{
 .uk{
     margin-left:20px ;
 }
+.Cd{
+   position: relative;
+   top: 250px;
+   right: 500px;
+   width: 400px;
+   height: 200px;
+   margin-left: 20px;
+    -webkit-box-shadow: 9px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 9px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 9px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+.darcy{
+    width: 400px;
+    height: 200px;
+    margin-left: 20px;
+     -webkit-box-shadow: 9px 4px 8px 0px rgba(34, 60, 80, 0.2);
+     -moz-box-shadow: 9px 4px 8px 0px rgba(34, 60, 80, 0.2);
+     box-shadow: 9px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+.dar{
+    width: 400px;
+    height: 200px;
+    margin-left: 20px;
+     -webkit-box-shadow: 9px 4px 8px 0px rgba(34, 60, 80, 0.2);
+     -moz-box-shadow: 9px 4px 8px 0px rgba(34, 60, 80, 0.2);
+     box-shadow: 9px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
